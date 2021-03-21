@@ -16,7 +16,6 @@ font-family: 'PT Serif', serif;
 h1, h2 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
-
 }
 
 a {
@@ -52,4 +51,8 @@ blockquote {
 
 dl dt {
   font-weight: bold;
+}
+
+footer {
+  line-height: normal;
 }
