@@ -16,6 +16,7 @@ font-family: 'PT Serif', serif;
 h1, h2 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
+
 }
 
 a {
@@ -39,6 +40,10 @@ img {
 
 .figg {
   text-align: center;
+}
+
+.ilb {
+  font-weight: normal;
 }
 
 blockquote {
